@@ -2309,8 +2309,8 @@
     ]
   },
   "timezone": "browser",
-  "title": "Physical Server Monitoring - New",
-  "uid": "physical_server_monitoring_1",
+  "title": "Physical Server Monitoring",
+  "uid": "physical-server-monitoring",
   "version": 1,
   "weekStart": ""
 }
